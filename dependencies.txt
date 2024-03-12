@@ -1,0 +1,5 @@
+To install dependencies
+
+ - on Debian:
+
+sudo apt-get install clang libclang-dev
